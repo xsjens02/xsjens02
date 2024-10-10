@@ -16,6 +16,10 @@
 
  ⚡ Quick Joke: **Debugging is being the detective in a crime where you’re also the murderer**
 
+ 💬 Feel free to reach out if you want to connect or collaborate!
+
+ 🚀 Check out my projects below!
+
 </div>
  
 <div align="center">
