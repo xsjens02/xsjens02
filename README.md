@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<h3 align="center">A passionate software developer from Denmark🇩🇰</h3>
+
 <div align="center">
   <a href="mailto:pmvg-simon@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-333333?style=for-the-badge&logo=protonmail&logoColor=white" />
@@ -11,4 +13,11 @@
   <a href="https://www.linkedin.com/in/simon-jensen-305b272b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,jetbrains,vscode,github,figma,miro,git,trello" />
+    <img src="https://skillicons.dev/icons?i=csharp,java,javascriptsql,sqllite" /><br>
 </div>
