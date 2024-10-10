@@ -14,8 +14,6 @@
 
  🌱 I’m a passionate and curious developer at the start of my career
 
- ⚡ Quick Joke: **Debugging is being the detective in a crime where you’re also the murderer**
-
  💬 Feel free to reach out if you want to connect or collaborate!
 
  🚀 Check out my projects below!
