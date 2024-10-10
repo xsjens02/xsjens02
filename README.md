@@ -18,6 +18,8 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,intellij,vscode,github,figma,miro,git,trello" />
-    <img src="https://skillicons.dev/icons?i=c#,java,javascriptsql,sqllite" />
+    <img src="https://skillicons.dev/icons?i=html,css,cs,java,js,sql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=github,git,figma,nextjs,react,postman,dotnet" />
+    <img src="https://skillicons.dev/icons?i=idea,rider,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,mint" />
 </div>
