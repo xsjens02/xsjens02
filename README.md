@@ -18,6 +18,6 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,jetbrains,vscode,github,figma,miro,git,trello" />
-    <img src="https://skillicons.dev/icons?i=csharp,java,javascriptsql,sqllite" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,intellij,vscode,github,figma,miro,git,trello" />
+    <img src="https://skillicons.dev/icons?i=c#,java,javascriptsql,sqllite" />
 </div>
