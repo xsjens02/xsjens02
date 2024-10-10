@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<h2 align="center"> About Me </h2>
+
 <h3 align="center">A passionate software developer from Denmark🇩🇰</h3>
 
 <div align="center">
