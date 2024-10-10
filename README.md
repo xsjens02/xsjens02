@@ -7,6 +7,16 @@
 <h3 align="center">A passionate software developer from Denmark🇩🇰</h3>
 
 <div align="center">
+ 
+ 🔭 I’m currently studying **Computer Science**
+
+ 🌱 I’m a passionate and curious developer at the start of my career
+
+ ⚡ Fun Joke **Debugging is being the detective in a crime movie where you’re also the murderer**
+
+</div>
+ 
+<div align="center">
   <a href="mailto:pmvg-simon@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-333333?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
