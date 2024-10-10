@@ -20,6 +20,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,cs,java,js,sqlite" /> <br>
     <img src="https://skillicons.dev/icons?i=github,git,figma,postman,nextjs,react" /> <br>
-    <img src="https://skillicons.dev/icons?i=dotnet,idea,rider,visualstudio,vscode" /> <br>
+    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,idea,rider" /> <br>
     <img src="https://skillicons.dev/icons?i=windows,linux" />
 </div>
