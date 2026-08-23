@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">A passionate software developer from Denmark🇩🇰<br><br><br><br>🔭 I’m currently studying Computer Science<br><br>🌱 I’m a passionate and curious developer at the start of my career<br><br>💬 Feel free to reach out if you want to connect or collaborate!<br><br>🚀 Check out my projects below!</p>
+<p align="center">A passionate **Platform Engineer** from Denmark 🇩🇰, focused on **DevSecOps**, **automation**, **infrastructure** and **security**.<br><br><br><br>💻 I’m currently working with **DevSecOps and Platform Engineering**<br><br>🌱 Passionate about **Cloud**, **IaC**, **CI/CD**, **Containers**, **Cybersecurity**, and **Developer Platforms**<br><br>🧠 A developer for developers, and a nerd for nerds<br><br>💬 Feel free to reach out if you want to connect or collaborate!<br><br>🚀 Check out my projects below!</p>
 
 ###
 
@@ -125,17 +125,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
-</div>
-
-###
-
-<h2 align="center">Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xsjens02&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsjens02&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
 </div>
 
 ###
