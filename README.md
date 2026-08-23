@@ -18,7 +18,19 @@
 
 ###
 
-<p align="center">A passionate **Platform Engineer** from Denmark 🇩🇰, focused on **DevSecOps**, **automation**, **infrastructure** and **security**.<br><br><br><br>💻 I’m currently working with **DevSecOps and Platform Engineering**<br><br>🌱 Passionate about **Cloud**, **IaC**, **CI/CD**, **Containers**, **Cybersecurity**, and **Developer Platforms**<br><br>🧠 A developer for developers, and a nerd for nerds<br><br>💬 Feel free to reach out if you want to connect or collaborate!<br><br>🚀 Check out my projects below!</p>
+<p align="center">
+  A passionate <strong>Platform Engineer</strong> from Denmark 🇩🇰, focused on <strong>DevSecOps</strong>, <strong>automation</strong>, <strong>infrastructure</strong> and <strong>security</strong>.
+  <br><br><br><br>
+  💻 I’m currently working with <strong>DevSecOps and Platform Engineering</strong>
+  <br><br>
+  🌱 Passionate about <strong>Cloud</strong>, <strong>IaC</strong>, <strong>CI/CD</strong>, <strong>Containers</strong>, <strong>Cybersecurity</strong>, and <strong>Developer Platforms</strong>
+  <br><br>
+  🧠 A developer for developers, and a nerd for nerds
+  <br><br>
+  💬 Feel free to reach out if you want to connect or collaborate!
+  <br><br>
+  🚀 Check out my projects below!
+</p>
 
 ###
 
